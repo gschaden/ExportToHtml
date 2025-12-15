@@ -2,6 +2,8 @@
 
 Export your Anki decks to standalone HTML files with custom styling and formatting.
 
+![Export to HTML Screenshot](https://raw.githubusercontent.com/gschaden/ExportToHtml/master/image.png)
+
 ## Description
 
 This addon allows you to export Anki cards to a single HTML file with full control over the layout and styling. Based on the original "Export cards to Html" addon, this version has been updated with modern features and support for newer Anki versions.
